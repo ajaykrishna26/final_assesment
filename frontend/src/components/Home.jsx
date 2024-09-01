@@ -43,7 +43,7 @@ const Home = () => {
                 <Typography component="div">{val.empId}</Typography>
               </CardContent>
               <CardActions sx={{ justifyContent: "center" }}>
-                <Button size="small" variant="contained" color="secondary">
+                <Button size="small" variant="contained" color="secondary" >
                   Delete
                 </Button>
                 <Button size="small" variant="contained" color="secondary">
